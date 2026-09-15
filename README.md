@@ -1,194 +1,155 @@
-# 👋 Hi, I'm Safwan
+<!-- ======================= HEADER ======================= -->
 
-### 💻 PHP & Laravel Developer | Backend Developer | Web Application Developer
+<h1 align="center">
+  Hi 👋, I'm Safwan Paloli
+</h1>
 
-I’m a passionate **PHP & Laravel Developer** focused on building clean, scalable, secure, and high-performance web applications.
+<h3 align="center">
+  Full-Stack Web Developer • PHP • Laravel • Vue.js
+</h3>
 
-I enjoy turning ideas into reliable digital products, developing backend systems, designing REST APIs, optimizing databases, and integrating frontend interfaces with powerful backend services.
+<p align="center">
+  Building clean, scalable and user-focused web applications.
+</p>
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🔭 Currently working on **Laravel & PHP web applications**
-* 🌱 Continuously learning **modern Laravel, APIs, databases & scalable application architecture**
-* 💡 Interested in **Backend Development, REST APIs & Web Application Architecture**
-* 🛠️ Experienced in developing and maintaining **dynamic web applications**
-* 🔍 Passionate about **clean code, debugging and performance optimization**
-* 🤝 Open to **Full-time, Remote & Freelance opportunities**
-* 📍 Based in **India**
-* 💬 Ask me about **PHP, Laravel, MySQL, REST APIs & Web Development**
+I'm a **Full-Stack Web Developer** focused on building reliable,
+scalable and maintainable web applications.
+
+I enjoy turning ideas into practical products with clean architecture,
+thoughtful UI and well-structured backend systems.
+
+- 🔭 Currently building web applications and developer projects
+- 💻 Focused on **PHP, Laravel, Vue.js and MySQL**
+- 🌱 Continuously improving my frontend and backend development skills
+- 🧩 Interested in REST APIs, database design and scalable applications
+- 🚀 Open to **Web Developer / Laravel Developer opportunities**
+- 📍 Based in India
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 🛠️ Tech Stack
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
 </p>
+
+**PHP · Laravel · MySQL · REST APIs**
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react" />
 </p>
 
-### Database
+**HTML · CSS · JavaScript · Vue.js · React**
+
+### Tools & Workflow
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-### Tools & Technologies
+**Git · GitHub · VS Code · Postman**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker" />
+---
+
+## 🚀 Featured Projects
+
+### 🎯 CareerPrep
+
+A career preparation platform designed to help users improve
+their job-readiness and career skills.
+
+**Tech:** Laravel · PHP · MySQL · JavaScript
+
+🔗 [View Project](YOUR_CAREERPREP_REPO_URL)
+
+---
+
+### 💬 Query Qorner
+
+A web platform focused on questions, discussions and knowledge sharing.
+
+**Tech:** Laravel · PHP · MySQL · Vue.js
+
+🔗 [View Project](YOUR_QUERY_QORNER_REPO_URL)
+
+---
+
+### 🌐 Personal Portfolio
+
+My personal developer portfolio showcasing my projects,
+skills and professional experience.
+
+**Tech:** HTML · CSS · JavaScript
+
+🔗 [View Portfolio](YOUR_PORTFOLIO_URL)
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"
+    height="165"
+  />
 </p>
 
 ---
 
-## 🏗️ What I Build
+## 💻 Most Used Technologies
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8"
+  />
+</p>
+
+---
+
+## 🎯 What I Build
 
 ```text
-🌐 Web Applications
-🔐 Authentication & Authorization Systems
-⚙️ REST APIs
-🛒 E-Commerce Platforms
-📊 Admin Dashboards
-💳 Payment Integrations
-🗄️ Database-driven Applications
-🔗 Third-party API Integrations
-🚀 Performance Optimized Applications
-```
-
----
-
-## 💼 Featured Projects
-
-### 🚀 Laravel E-Commerce Platform
-
-A full-featured e-commerce application built with Laravel.
-
-**Features:**
-
-* 🔐 User authentication
-* 🛍️ Product management
-* 🛒 Shopping cart
-* 💳 Payment integration
-* 📦 Order management
-* 👨‍💼 Admin dashboard
-* 📊 Database management
-* 🔌 REST API integration
-
-**Tech:** `Laravel` `PHP` `MySQL` `JavaScript` `Bootstrap`
-
----
-
-### 🔥 REST API Backend
-
-A scalable REST API backend designed for modern web and mobile applications.
-
-**Features:**
-
-* JWT / Token authentication
-* CRUD APIs
-* Role & permission management
-* Request validation
-* API resources
-* Error handling
-* Database optimization
-
-**Tech:** `Laravel` `PHP` `MySQL` `REST API`
-
----
-
-### 📊 Admin Dashboard
-
-A responsive administration system for managing users, products, transactions and application data.
-
-**Tech:** `Laravel` `PHP` `MySQL` `JavaScript` `Bootstrap`
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📚 Currently Learning
-
-```text
-Laravel
-├── Advanced Eloquent
-├── REST API Architecture
-├── Authentication & Authorization
-├── Queues & Jobs
-├── Events & Listeners
-├── Caching
-└── Application Optimization
-
-Backend
-├── Database Optimization
-├── API Design
-├── Security
-└── Scalable Architecture
-```
-
----
-
-## 🎯 Career Goals
-
-My goal is to continue growing as a **professional backend/web developer**, contribute to challenging projects, and build software that is reliable, maintainable, secure and scalable.
-
-I'm always interested in collaborating with developers, startups and teams working on interesting products.
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-</a>
-
-</p>
-
----
-
-### 💡 "Build. Learn. Improve. Repeat."
-
-⭐ **If you find my projects useful, consider giving them a star!**
+Web Applications
+       │
+       ├── Backend
+       │     ├── PHP
+       │     ├── Laravel
+       │     ├── REST APIs
+       │     └── Authentication
+       │
+       ├── Database
+       │     ├── MySQL
+       │     ├── Relationships
+       │     ├── Queries
+       │     └── Database Design
+       │
+       └── Frontend
+             ├── JavaScript
+             ├── Vue.js
+             ├── React
+             ├── HTML
+             └── CSS
